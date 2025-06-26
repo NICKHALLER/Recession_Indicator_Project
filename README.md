@@ -46,7 +46,7 @@ Evaluation Metrics
 - ROC curve with AUC (Area under curve, higher is better)
 
 Conclusion:
-Predicting recessions is challenging using basic data and with my skillset, also since they are so rare it is hard to effectively identify one
+Predicting recessions is challenging using basic data and with my skillset, also since they are so rare it is hard to effectively identify one.
 Random forest modeling out performed logistic regression in AUC, accuracy, and recall
 Sentiment, Yield Curve, and Federal Funds rate were most predictive with varying lags
 improvement could be made with resampling, data enginneering, and more advanced models
