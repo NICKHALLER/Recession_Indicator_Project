@@ -1,4 +1,4 @@
-# macro_indicator_project
+# Recession Indicator Project
 ## Using macroeconomic indicators to explore relationships and predict recessions
 
 objective: To analyze data using exploratory data analysis (correlation heat maps, time series graphs), random forest and logistic models
